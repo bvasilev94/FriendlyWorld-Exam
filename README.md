@@ -4,4 +4,4 @@ This JavaScript app was developed as part of an SoftUni Back-End Exam assessment
 
 ## Development server
 
-Run npm intit to download dependencies.Than run npm start to start the app. Navigate to `http://localhost:3000/`. The application reload on if you change any of the source files.
+Run npm intit to download dependencies.Than run npm start to start the app. Navigate to `http://localhost:3000/`. The application reload if you change any of the source files.
